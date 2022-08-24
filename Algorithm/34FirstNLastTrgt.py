@@ -64,8 +64,7 @@ found = []
 #             if nums[mid] == target and nums [mid+1] == target:
 #                 output = [mid,mid+1]
 #             elif nums[mid]< target:
-#                 low = mid + 1  
+#                 low = mid + 1
 #             else:
-#                 up = mid -1     
+#                 up = mid -1
 #         return output
-    
